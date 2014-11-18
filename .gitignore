@@ -1,0 +1,8 @@
+node_modules
+/*.sublime-workspace
+/npm-debug.log
+bower_components
+*.log
+/server/data/need_data.json
+.sass-cache
+.tmp
